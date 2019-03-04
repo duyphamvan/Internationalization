@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecea2c60-d73d-4a6e-9f1a-89b5020116aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Section/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section/cart/public/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section/cart/resources/views/cart.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section/cart/resources/views/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section/cart/resources/views/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section/cart/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section/cart/resources/views/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section/cart/resources/views/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section/laravel-page-view-counter-using-session/resources/views/show.blade.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/laravel-blog-i18n/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/task_managements/resources/views/tasks/list.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-423">
+              <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/i18n/resources/lang/en/messages.php" />
+        <option value="$PROJECT_DIR$/i18n/resources/lang/vi/messages.php" />
+        <option value="$PROJECT_DIR$/i18n/.env" />
+        <option value="$PROJECT_DIR$/i18n/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/i18n/resources/lang/en/language.php" />
+        <option value="$PROJECT_DIR$/i18n/config/app.php" />
+        <option value="$PROJECT_DIR$/i18n/routes/web.php" />
+        <option value="$PROJECT_DIR$/laraveli18n/resources/lang/en/messages.php" />
+        <option value="$PROJECT_DIR$/laraveli18n/resources/lang/vi/messages.php" />
+        <option value="$PROJECT_DIR$/laraveli18n/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/laraveli18n/routes/web.php" />
+        <option value="$PROJECT_DIR$/I18N/resources/lang/en/messages.php" />
+        <option value="$PROJECT_DIR$/I18N/resources/lang/vi/messages.php" />
+        <option value="$PROJECT_DIR$/I18N/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/I18N/routes/web.php" />
+        <option value="$PROJECT_DIR$/I18N/config/app.php" />
+        <option value="$PROJECT_DIR$/laravel-blog-i18n/.env" />
+        <option value="$PROJECT_DIR$/laravel-blog-i18n/app/Http/Services/BlogServiceImpl.php" />
+        <option value="$PROJECT_DIR$/laravel-blog-i18n/resources/lang/vi/language.php" />
+        <option value="$PROJECT_DIR$/laravel-blog-i18n/resources/lang/en/language.php" />
+        <option value="$PROJECT_DIR$/laravel-blog-i18n/app/Http/Controllers/LanguageController.php" />
+        <option value="$PROJECT_DIR$/laravel-blog-i18n/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/laravel-blog-i18n/routes/web.php" />
+        <option value="$PROJECT_DIR$/laravel-blog-i18n/resources/views/create.blade.php" />
+        <option value="$PROJECT_DIR$/laravel-blog-i18n/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/laravel-blog-i18n/app/Http/Middleware/Locale.php" />
+        <option value="$PROJECT_DIR$/manage_customers/.env" />
+        <option value="$PROJECT_DIR$/manage_customers/resources/lang/en/language.php" />
+        <option value="$PROJECT_DIR$/manage_customers/resources/lang/vi/language.php" />
+        <option value="$PROJECT_DIR$/manage_customers/app/Http/Controllers/LanguageController.php" />
+        <option value="$PROJECT_DIR$/manage_customers/app/Http/Middleware/Locale.php" />
+        <option value="$PROJECT_DIR$/manage_customers/routes/web.php" />
+        <option value="$PROJECT_DIR$/manage_customers/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/manage_customers/resources/views/customers/list.blade.php" />
+        <option value="$PROJECT_DIR$/task_managements/.env" />
+        <option value="$PROJECT_DIR$/task_managements/app/Http/Controllers/LanguageController.php" />
+        <option value="$PROJECT_DIR$/task_managements/app/Http/Middleware/Locale.php" />
+        <option value="$PROJECT_DIR$/task_managements/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/task_managements/routes/web.php" />
+        <option value="$PROJECT_DIR$/task_managements/resources/lang/vi/language.php" />
+        <option value="$PROJECT_DIR$/task_managements/resources/lang/en/language.php" />
+        <option value="$PROJECT_DIR$/task_managements/resources/views/tasks/list.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/composer" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/laravel-blog-i18n/vendor/jakub-onderka/php-console-highlighter" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="633" />
+    <option name="height" value="739" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Internationalization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Internationalization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Internationalization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Internationalization" type="462c0819:PsiDirectoryNode" />
+              <item name="task_managements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Internationalization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Internationalization" type="462c0819:PsiDirectoryNode" />
+              <item name="task_managements" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Internationalization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Internationalization" type="462c0819:PsiDirectoryNode" />
+              <item name="task_managements" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Internationalization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Internationalization" type="462c0819:PsiDirectoryNode" />
+              <item name="task_managements" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Internationalization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Internationalization" type="462c0819:PsiDirectoryNode" />
+              <item name="task_managements" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Internationalization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Internationalization" type="462c0819:PsiDirectoryNode" />
+              <item name="task_managements" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Internationalization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Internationalization" type="462c0819:PsiDirectoryNode" />
+              <item name="task_managements" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ORMandEloquent/task_management" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/task_managements/public" />
+      <recent name="$PROJECT_DIR$/task_managements" />
+      <recent name="$PROJECT_DIR$/manage_customers" />
+      <recent name="$PROJECT_DIR$/laravel-blog-i18n" />
+      <recent name="$PROJECT_DIR$/i18n" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecea2c60-d73d-4a6e-9f1a-89b5020116aa" name="Default Changelist" comment="" />
+      <created>1551629503236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551629503236</updated>
+      <workItem from="1551629504763" duration="4294000" />
+      <workItem from="1551688105032" duration="30000" />
+      <workItem from="1551715431119" duration="5183000" />
+      <workItem from="1551731365670" duration="8518000" />
+      <workItem from="1551740360206" duration="619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18644000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.19233839" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31433225" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32998326" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/storage/app/public/images/PmkCKZGCCnqKYI9F3JseAwsWLVXcaA2yfjLcStzt.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/storage/app/public/images/unnw3ziM4l0tBWC7OHndpSCJXVckoIPaNTOJ1h4W.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/storage/app/public/images/4aTgNXlW633v1iBpYhxWCUM203ebdy7HsyFbvxD9.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/storage/app/public/images/798Cq4GjRxb0CpfTX0iA0GoVnpFlTbi8bTfl8zds.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/storage/app/public/images/AwDUL7GobfhsPfmEozou4H5Opspa8HXi22wE751v.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/storage/app/public/images/dazekzMYdb34tXkhZEhqN86jbNGHjSvDyvuZmSgd.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/storage/app/public/images/dFsZrwlE1pUNYz41ZS2XUWz7dpGHw0R8JYjaJ9UX.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/storage/app/public/images/f5khLQkaOYBJD1NrCPccxkg3SaaRptvfeKlPLpHG.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/public/storage/images/nD31KLrHwU9GKxapxW9Mr81GpeopXOge2UYgtnr4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/public/storage/images/Gqq4294lGtCAiIz7NEn3u4TC5ZKKnNOM2hJv4Wa9.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/public/storage/images/f5khLQkaOYBJD1NrCPccxkg3SaaRptvfeKlPLpHG.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/storage/app/public/images/nNfLRyTgVBiWRhCNdoVFIpywN7XCxGOl3Qe5DBZt.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/storage/app/public/images/nD31KLrHwU9GKxapxW9Mr81GpeopXOge2UYgtnr4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/storage/app/public/images/MNXa8FQCKFpApQPFsnPPlK1OmHtOrGIzB6fkhajq.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/storage/app/public/images/m1Dzl85nnu6VfYjYrCcaRWX8rqJtGzQy7daD5ZB2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/storage/app/public/images/jS5pa0j4xsqnDkWoy1wEKvDo5lkUlYrzJU00ptab.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/storage/app/public/images/IzudTEB9kJ6I0MhDK703w8kJCxHc1hKdpMiIjX2w.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/storage/app/public/images/Gqq4294lGtCAiIz7NEn3u4TC5ZKKnNOM2hJv4Wa9.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-321" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/resources/lang/vi/language.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/resources/lang/en/language.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/app/Http/Controllers/LanguageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1104" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/app/Http/Middleware/Locale.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="23" column="109" selection-start-line="23" selection-start-column="109" selection-end-line="23" selection-end-column="109" />
+          <folding>
+            <element signature="e#39#51#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/resources/views/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="92" selection-start-line="18" selection-start-column="92" selection-end-line="18" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-blog-i18n/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="62" column="54" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage_customers/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage_customers/app/Http/Requests/FormCustomerRequest.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage_customers/resources/lang/vi/language.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage_customers/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="82" column="19" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage_customers/app/Http/Middleware/Locale.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+          <folding>
+            <element signature="e#39#51#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage_customers/resources/lang/en/language.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage_customers/app/Http/Controllers/LanguageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage_customers/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="27" column="107" selection-start-line="27" selection-start-column="107" selection-end-line="27" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage_customers/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="62" column="54" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_management/.env" />
+    <entry file="file://$PROJECT_DIR$/task_managements/app/Http/Requests/FormTaskRequest.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_managements/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_managements/app/Http/Controllers/LanguageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_managements/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="63" column="54" selection-start-line="63" selection-start-column="54" selection-end-line="63" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_managements/app/Http/Middleware/Locale.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+          <folding>
+            <element signature="e#39#51#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_managements/resources/lang/vi/language.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_managements/resources/lang/en/language.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage_customers/resources/views/customers/list.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_managements/public/css/app.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_managements/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" column="106" selection-start-line="24" selection-start-column="106" selection-end-line="24" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_managements/storage/app/public/images/0r2YgQcD3zRR42ZrX9YOCkFhYta67rtGF9cutiI6.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_managements/storage/app/public/images/KrqAFfuh7tB21Y79navkN1wJ6hL8vTtST5mpkNsl.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_managements/resources/views/tasks/list.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-423">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

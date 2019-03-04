@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/laravel-blog-i18n/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/laravel-blog-i18n/tests" isTestSource="true" packagePrefix="Tests\" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/beyondcode/laravel-dump-server" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/erusev/parsedown" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/symfony/contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog-i18n/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
